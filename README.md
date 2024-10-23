@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Celline Musimbi
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning to continously sharpen my skills in Power BI and SQL
-- 💞️ I’m looking to collaborate with a company that embraces diversityand gives room for professional growth.
-- 📫 How to reach me: musimbicelline@gmail.com
-- 😄 Pronouns: She/Her
+Hello, my name is Celline, welcome to my GitHub!
+
+I am a data enthusiast and i enjoy cleaning data, analyzing it, and telling stories using simple charts that can be understood by almost everyone.
+
+I am a curious individual who is always open to learn new concepts and become better every day at what I do.
+
+I am great at SQL, Power BI, and Excel.
+
+I am actively seeking a new role in Data analytics and reporting.
+
+You may connect with me on Linkedin: https://www.linkedin.com/in/celline-musimbi-kisii-67789a1b2/
+
+
+
 
 
 <!---
